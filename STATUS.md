@@ -1,6 +1,6 @@
 # Estado atual do projeto
 
-Atualizado em **18 de setembro de 2026**.
+Atualizado em **17 de setembro de 2026** (America/Sao_Paulo).
 
 ## Visão geral
 
