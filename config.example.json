@@ -1,0 +1,11 @@
+{
+  "destination_root": "./arquivos-organizados",
+  "default_category": "Outros",
+  "categories": {
+    "Imagens": [".jpg", ".jpeg", ".png", ".gif", ".webp"],
+    "Documentos": [".pdf", ".doc", ".docx", ".txt", ".md"],
+    "Planilhas": [".csv", ".xls", ".xlsx"],
+    "Compactados": [".zip", ".rar", ".7z"],
+    "Código": [".py", ".js", ".ts", ".tsx", ".html", ".css", ".json"]
+  }
+}
