@@ -4,6 +4,8 @@
 
 **Status:** MVP + vitrine React concluídos · **Versão:** 1.0.0 · **Python:** 3.12+ · **Frontend:** React 19 + TypeScript
 
+[Acessar a vitrine](https://danielrobertoribeiro.github.io/Organizador_Inteligente_De_Arquivos/) · [Ver o repositório](https://github.com/DanielRobertoRibeiro/Organizador_Inteligente_De_Arquivos) · [Estado atual](STATUS.md)
+
 O Organizador Inteligente transforma pastas desorganizadas em uma estrutura previsível por categorias. Ele primeiro cria um plano, mostra exatamente o que pretende fazer e gera uma auditoria. Os arquivos só são movidos quando a opção `--apply` é informada explicitamente.
 
 ## Por que este projeto existe

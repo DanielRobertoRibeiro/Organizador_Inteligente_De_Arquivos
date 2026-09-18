@@ -13,8 +13,8 @@ Atualizado em **18 de setembro de 2026**.
 | Testes frontend | ✅ Aprovado | 3 testes de classificação, duplicidade, colisão e CSV. |
 | Build de produção | ✅ Aprovado | Vite gera artefatos estáticos otimizados. |
 | CI | ✅ Configurado | GitHub Actions valida Python e React a cada push/PR. |
-| GitHub Pages | 🟡 Configurado | A publicação depende da primeira execução bem-sucedida no GitHub. |
-| Repositório remoto | 🟡 Preparado | O estado muda para concluído após o primeiro push para `main`. |
+| GitHub Pages | ✅ Publicado | [Vitrine online](https://danielrobertoribeiro.github.io/Organizador_Inteligente_De_Arquivos/) com deploy automatizado. |
+| Repositório remoto | ✅ Publicado | Branch `main` disponível em [DanielRobertoRibeiro/Organizador_Inteligente_De_Arquivos](https://github.com/DanielRobertoRibeiro/Organizador_Inteligente_De_Arquivos). |
 
 ## O que o frontend faz
 
